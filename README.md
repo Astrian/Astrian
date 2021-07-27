@@ -36,7 +36,9 @@ Echo.js is a Mandarin podcast with the topic about programming and technology.
 
 Listen on [podcast website](https://www.echojspodcast.com/), [Apple Podcast](https://podcasts.apple.com/cn/podcast/echo-js/id1516139979), [Pocket Casts](https://pca.st/cvst15fy), [小宇宙](https://www.xiaoyuzhoufm.com/podcast/5ed33dcc418a84a046f579ec) (podcast service based on China Mainland), or any other podcast client with the rss feed address.
 
-### I am programming...
+----
+
+### <img src='sectiontitle-programming.png' alt='I am programming...' width='40%'>
 
 Some little gadgets. Such as...
 
