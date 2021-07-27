@@ -12,7 +12,7 @@ You can follow my [Telegram channel](https://t.me/AstrianFM).
 
 ### <img src='sessiontitle-donate.png' alt='Buy me a coffee' width='40%'>
 
-You can consider to tip me on BuyMeACoffee.com.
+You may consider to tip me on BuyMeACoffee.com.
 
 <a href="https://www.buymeacoffee.com/Astrian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
