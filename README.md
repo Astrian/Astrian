@@ -37,4 +37,6 @@ Some little gadgets. Such as...
 - [The Node.js package](https://github.com/Astrian/mainetcn) which helps to fetch Maimai DX (an arcade rythem game) data
 - [A Termux extension](https://github.com/Astrian/termux-deilveryreader) can remind you to pick up your parcel
 
-<small>Feature image: From game <i>Persona 5</i> by Atlus.</small>
+----
+
+Feature image: From game *Persona 5* by Atlus.
