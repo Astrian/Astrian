@@ -8,6 +8,8 @@ You can follow my [Telegram channel](https://t.me/AstrianFM).
 
 ![My Github statics](https://github-readme-stats.vercel.app/api?username=Astrian&hide_border=true&show_icons=true)
 
+<hr>
+
 ### <img src='sessiontitle-donate.png' alt='Buy me a coffee' width='40%'>
 
 You can consider to tip me on BuyMeACoffee.com.
