@@ -4,6 +4,8 @@
 
 I am a Monash University student in Master of Information Technology. Now I am in China Mainland. Also, I am a writer, a podcaster and Node.js programmer.
 
+You can follow me on [Telegram channel](https://t.me/AstrianFM).
+
 ![My Github statics](https://github-readme-stats.vercel.app/api?username=Astrian&hide_border=true&show_icons=true)
 
 #### Buy me a coffee
