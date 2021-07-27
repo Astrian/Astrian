@@ -10,7 +10,7 @@ You can follow my [Telegram channel](https://t.me/AstrianFM).
 
 ----
 
-### <img src='sessiontitle-donate.png' alt='Buy me a coffee' width='40%'>
+### <img src='sectiontitle-donate.png' alt='Buy me a coffee' width='40%'>
 
 You may consider to tip me on BuyMeACoffee.com.
 
@@ -18,7 +18,7 @@ You may consider to tip me on BuyMeACoffee.com.
 
 ----
 
-### I am writing...
+### <img src='sectiontitle-writing.png' alt='I am writing...' width='40%'>
 
 Some text on my personal blog (in Simplify Chinese), with topics about technology, music, culture, or just shattered thoughts. [Here is the link to my blog.](https://astrianzheng.cn)
 
@@ -28,7 +28,7 @@ This blog is powered with [MWeb](https://www.mweb.im/) and I made a website them
 
 ----
 
-### I am podcasting...
+### <img src='sectiontitle-podcasting.png' alt='I am podcasting...' width='40%'>
 
 ![Echo.js icon](echo-js-icon.jpg)
 
