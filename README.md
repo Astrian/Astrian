@@ -1,3 +1,5 @@
+![Profile Image](profileimg.png)
+
 ### Hello! This is Astrian.
 
 I am a Monash University student in Master of Information Technology. Now I am in China Mainland.
