@@ -6,11 +6,11 @@ I am a Monash University student in Master of Information Technology. Now I am i
 
 ![My Github statics](https://github-readme-stats.vercel.app/api?username=Astrian&hide_border=true&show_icons=true)
 
-#### Donate me
+#### Buy me a coffee
 
 You can consider to tip me on BuyMeACoffee.com.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Astrian" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/Astrian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 #### I am writing...
 
