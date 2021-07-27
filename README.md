@@ -14,7 +14,7 @@ You can consider to tip me on BuyMeACoffee.com.
 
 #### I am writing...
 
-Some text on my personal blog (in Simplify Chinese), with topics about technology, music, culture, or just shattered thoughts. [Here is the link to here.](https://astrianzheng.cn)
+Some text on my personal blog (in Simplify Chinese), with topics about technology, music, culture, or just shattered thoughts. [Here is the link to my blog.](https://astrianzheng.cn)
 
 ![My Blog Screenshot](blog-screenshot.png)
 
