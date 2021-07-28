@@ -10,9 +10,11 @@ You can follow my [Telegram channel](https://t.me/AstrianFM).
 
 ### <img src='sectiontitle-donate.png' alt='Buy me a coffee' width='40%'>
 
-You may consider to tip me on BuyMeACoffee.com.
+You may consider to tip me on buymeacoffee.com. Or, if you wish to tip me with Alipay or WeChat Pay, 爱发电 is also available.
 
 <a href="https://www.buymeacoffee.com/Astrian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+**[Donate on 爱发电](https://afdian.net/@Astrian)**
 
 ----
 
