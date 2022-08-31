@@ -1,6 +1,6 @@
 ![Profile Image](profileimg.png)
 
-I am a Monash University student in Master of Information Technology. Comming from Mainland China. Also, I am a writer, a podcaster and Node.js programmer.
+I am a Monash University student in Master of Information Technology, coming from Mainland China. Also, I am a blogger, a podcaster and Node.js programmer.
 
 You can follow my [Telegram channel](https://t.me/AstrianFM).
 
