@@ -1,6 +1,6 @@
 **ATTENTION:**
 
-I/We are not authorize everyone, including GitHub, to “mirror” my code to another website. If you saw my open sourced projects outside GitHub or git.nas.astrian.moe, please be aware that someone may be injecting spyware or other unexpcted code into the mirrored projects.
+I/We are not authorize everyone, including GitHub, to “mirror” my code to other websites without the permission of GitHub’s Terms of Service. If you saw my open sourced projects outside GitHub or git.nas.astrian.moe, please be aware that someone may be injecting spyware or other unexpcted code into the mirrored projects.
 
 ----
 
