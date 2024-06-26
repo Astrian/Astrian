@@ -1,3 +1,9 @@
+**ATTENTION:**
+
+I/We are not authorize everyone, including GitHub, to “mirror” my code to another website. If you saw this, please be aware that someone may be injecting spyware or other unexpcted code into the mirrored project.
+
+----
+
 ![Profile Image](profileimg.png)
 
 I am a Monash University student in Master of Information Technology, coming from Mainland China. Also, I am a blogger, a podcaster and Node.js programmer.
