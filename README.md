@@ -10,7 +10,7 @@ I am a Monash University student in Master of Information Technology, coming fro
 
 You can follow my [Telegram channel](https://t.me/AstrianFM).
 
-My PGP encryption fingerprint: `30C8 C598 F461 FEE0 BFA0  2B6A A991 CE2A 3F3B 64AF` (or [confirm with QR code](https://cloud.local.astrian.moe/s/ckP2DaByPSDZfCs))
+My PGP encryption fingerprint: `b33a78d22a7c78ef9a70ba4677efa485e49979df` (or [confirm with QR code](pgp-qr.png))
 
 ![My Github statics](https://github-readme-stats.vercel.app/api?username=Astrian&hide_border=true&show_icons=true)
 
